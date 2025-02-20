@@ -1,20 +1,7 @@
-# NAME: HBO
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:13
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 45
-# PROCESS-NAME: 1
-# TOTAL: 47
+
 payload:
-  - DOMAIN-SUFFIX,max.com
-  - DOMAIN-SUFFIX,discomax.com
-  - DOMAIN-SUFFIX,media.h264.io
-  - DOMAIN-SUFFIX,litix.io
-  - DOMAIN-SUFFIX,brightline.tv
-  - DOMAIN-SUFFIX,branch.io
-  - DOMAIN-SUFFIX,warnermediacdn.com
-  - DOMAIN-SUFFIX,wmcdp.io
-  - DOMAIN-SUFFIX,ngtv.io
-  - DOMAIN-SUFFIX,pypestream.com
-  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN,sgtv.ii00.cc
+  - DOMAIN,sptv.ii00.cc
+  - DOMAIN,cn-music.mefun.vip
+  - DOMAIN,temby856.285286.xyz
+  - DOMAIN,makima.online
